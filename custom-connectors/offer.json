@@ -1,0 +1,47 @@
+{
+        "lockStatus": "SaveAndPublish",
+        "pcMigrationStatus": "Migrated",
+        "pcRedirectUri": "",
+        "status": "WaitingForPublisherReview",
+        "version": 0,
+        "changedTime": "2023-10-24T22:13:57.8526326Z",
+        "pricingNotRecalculatedRegions": [],
+        "definition": {
+            "offer": {
+                "microsoft-powerplatform-connectors.targetCopilots": [
+                    "all"
+                ],            
+                "microsoft-powerplatform-connectors.categories": [
+                    "Powerplatform connectors"
+                ],
+                "microsoft-powerplatform-connectors.products": [
+                    "logicapps",
+                    "powerapps",
+                    "power automate"
+                ],
+                "microsoft-powerplatform-connectors.termsOfUseURL": "",                
+                "microsoft-powerplatform-connectors.privacyURL": "",
+                "microsoft-powerplatform-connectors.publicAzureSupportUrl": "",                
+                "microsoft-powerplatform-connectors.hideKey": "",
+                "microsoft-powerplatform-connectors.notes": "",                      
+                "microsoft-powerplatform-connectors.payloads": [
+                    {
+                        "payloadType": "PowerPlatformConnector",
+                        "payloadId": "e0aca017-34bd-4e3b-b359-307f8bad0fd7"
+                    }
+                ]
+            },
+            "plans": [],
+            "displayText": ""
+        },
+        "offerTypeId": "microsoft-powerplatform-connectors",
+        "isvUpgradeRequest": false,
+        "offerTypeVersions": {
+            "microsoft-powerplatform-connectors": 1
+        },
+        "offerTypeVersionsOverride": {},
+        "id": "[PC productId - unique per Offer]",
+        "legacyOfferId": "[PC productId]",
+        "publisherName": ""[AMS SellerName]",
+        "publisherType": "Individual"
+    }
